@@ -1,1 +1,1 @@
-# dock-market-evm-contracts
+# Dock Market EVM smart contracts
